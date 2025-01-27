@@ -1,0 +1,5 @@
+package rahulshettyacademy.SeleniumFrameworkDesign.data;
+
+public class DataReader {
+
+}
