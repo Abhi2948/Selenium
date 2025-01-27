@@ -1,9 +1,0 @@
-package test;
-
-public class Day2 {
-	@Test
-	public void Demo() {
-		System.out.println("good");
-	}
-
-}
