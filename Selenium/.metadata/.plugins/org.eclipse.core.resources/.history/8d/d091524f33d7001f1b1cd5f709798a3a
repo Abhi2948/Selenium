@@ -1,0 +1,5 @@
+package rahulshettyacademy.SeleniumFrameworkDesign.pageobjects;
+
+public class CartPage {
+
+}
